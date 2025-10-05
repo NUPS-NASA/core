@@ -1,0 +1,4 @@
+file,x_col,y_col,is_positive,x_start,x_end,depth,method,notes,image_path
+result/positive/star0129.csv,JD,star0129,False,,,0.0,jax_rbf_quantile,,dip_results/star0129_annotated.png
+result/positive/star0159.csv,JD,star0159,False,,,0.0,jax_rbf_quantile,rectangle-like,dip_results/star0159_annotated.png
+result/positive/star0053.csv,JD,star0053,False,,,0.0,jax_rbf_quantile,rectangle-like,dip_results/star0053_annotated.png
